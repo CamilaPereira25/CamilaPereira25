@@ -11,7 +11,8 @@
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, com grande interesse em **Inteligência Artificial, UX/UI Design e desenvolvimento de software**.  
 
-Atualmente, faço estágio na **FIESC**, atuando com **atendimento de primeiro nível em TI, suporte técnico e resoluções rápidas** em sistemas, telefonia e softwares.  
+Atualmente, faço estágio na **FIESC**, atuando com **atendimento de primeiro nível em TI, suporte técnico e resoluções rápidas**. Onde atuo em chamados de N1 e HelpDesk. Venho desempenhado o papel de apredender com todas as equipes de atuação e lidando com chamados e usuarios. 
+Estou tendo a oportunidade de aprender diariamente com diferentes equipes, em uma empresa que abrange N1, N2, N3, Governança de TI, Gestão de Projetos, Big Data, entre outras áreas. Essa vivência agrega muito à minha formação, permitindo que eu tenha uma experiência ampla e diversificada, aprendendo com profissionais de diferentes especialidades e consolidando minha base como futura profissional de tecnologia.
 
 Além da parte técnica, também tenho experiência em **atendimento, vendas e organização de eventos de inovação e tecnologia**, o que me ajudou a desenvolver habilidades como **comunicação, adaptabilidade e resolução de problemas**.  
 
