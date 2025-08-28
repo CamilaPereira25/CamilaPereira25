@@ -2,7 +2,7 @@
 
 > 💡 Apaixonada por tecnologia, inovação e inteligência artificial, com foco no desenvolvimento de soluções criativas e experiências digitais.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camila-pereira-958126311/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/camila-pereira-958126311/](https://www.linkedin.com/in/camila-pereira-980200155/))
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:camilaapereiraa04@gmail.com)
 
 ---
