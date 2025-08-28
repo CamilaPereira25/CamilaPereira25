@@ -66,7 +66,7 @@ Meu objetivo é crescer como profissional de tecnologia, **sempre aprendendo e a
 ## 📊 Estatísticas do GitHub  
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CamilaPereira25&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CamilaPereira25&show_icons=true&theme=dracula&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamilaPereira25&layout=compact&langs_count=7&theme=dracula"/>
 </p>
 
